@@ -1,0 +1,16 @@
+{
+  "name": "shelfi-uikit",
+  "version": "0.0.1",
+  "main": [
+    "shelfi-uikit.js",
+    "shelfi-uikit.css"
+  ],
+  "ignore": [
+    ".jshintrc",
+    "**/*.txt"
+  ],
+  "dependencies": {
+    "angular": "~1.3.4",
+    "angular-material": "master"
+  }
+}
